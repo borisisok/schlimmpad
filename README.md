@@ -1,4 +1,4 @@
-# schlimmpad
+# SchlimmPad
 ## A Novation Launchpad midi sequencer that is strictly using Launchpad(s).
 
 ## Features:
