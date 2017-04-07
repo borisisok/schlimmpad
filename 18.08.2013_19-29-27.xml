@@ -1,0 +1,531 @@
+<org.neuroninterworks.midi.seq64.SessionInfo>
+  <name></name>
+  <storedir>./</storedir>
+  <font>/font.png</font>
+  <groovyScript>seq64.groovy</groovyScript>
+  <bpm>126</bpm>
+  <inputClockDeviceName>loopMIDI Seq64ClockIn</inputClockDeviceName>
+  <inputNoteDeviceName>loopMIDI Seq64NoteIn</inputNoteDeviceName>
+  <clipInfos>
+    <entry>
+      <string>0_0</string>
+      <org.neuroninterworks.midi.seq64.ClipInfo>
+        <name></name>
+        <outDevice>micro lite: Port 1</outDevice>
+        <inDevice></inDevice>
+        <outChannel>0</outChannel>
+        <inChannel>0</inChannel>
+        <beats>4</beats>
+        <xpos>0</xpos>
+        <ypos>0</ypos>
+        <xoff>0</xoff>
+        <v__xoff>
+          <int>0</int>
+          <int>8</int>
+        </v__xoff>
+        <yoff>84</yoff>
+        <v__yoff>
+          <int>84</int>
+          <int>84</int>
+        </v__yoff>
+        <gridXSize>6</gridXSize>
+        <v__gridXSize>
+          <int>6</int>
+          <int>6</int>
+        </v__gridXSize>
+        <loopStart>0</loopStart>
+        <loopEnd>96</loopEnd>
+        <presetBank>0</presetBank>
+        <presetProg>0</presetProg>
+        <play>false</play>
+        <record>false</record>
+        <loopsPlayed>0</loopsPlayed>
+        <startedOnLoop>0</startedOnLoop>
+        <events>
+          <entry>
+            <string>0_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>0</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>29</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>78_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>83</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>84_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>89</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>18_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>23</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>48</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>84_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>84</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_39_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCcA</data>
+                <length>3</length>
+              </message>
+              <tick>29</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_39_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCcA</data>
+                <length>3</length>
+              </message>
+              <tick>77</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCYA</data>
+                <length>3</length>
+              </message>
+              <tick>29</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>12_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>12</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>48</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>0_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>5</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>60_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>65</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>41</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>18_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>18</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>72</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>53</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>36</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>84_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>89</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>12_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>17</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCYt</data>
+                <length>3</length>
+              </message>
+              <tick>24</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>60_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>60</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>78_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>78</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_39</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCct</data>
+                <length>3</length>
+              </message>
+              <tick>24</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>77</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>41</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>53</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCYA</data>
+                <length>3</length>
+              </message>
+              <tick>77</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>0_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>5</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>66_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>66</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>66_36_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCQA</data>
+                <length>3</length>
+              </message>
+              <tick>71</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>42_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCoA</data>
+                <length>3</length>
+              </message>
+              <tick>47</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCYt</data>
+                <length>3</length>
+              </message>
+              <tick>72</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>72_39</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCct</data>
+                <length>3</length>
+              </message>
+              <tick>72</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>84_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>84</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_36</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCQt</data>
+                <length>3</length>
+              </message>
+              <tick>36</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>42_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>42</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>0_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>0</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>24_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCot</data>
+                <length>3</length>
+              </message>
+              <tick>24</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+        </events>
+      </org.neuroninterworks.midi.seq64.ClipInfo>
+    </entry>
+  </clipInfos>
+  <autosave>true</autosave>
+  <groovyCode>&#xd;
+// SP-505 / Programm change / acive pad bank&#xd;
+import javax.sound.midi.ShortMessage;&#xd;
+launchpad.cliphash.get(0+&quot;_&quot;+0)._send(ShortMessage.PROGRAM_CHANGE,1,0);&#xd;
+print &quot;OK\n&quot;;&#xd;
+&#xd;
+&#xd;
+//// Threads&#xd;
+&#xd;
+// Thread example - Animate a midi cc&#xd;
+import javax.sound.midi.ShortMessage;&#xd;
+name=&quot;cc1&quot;&#xd;
+i=0&#xd;
+launchpad.groovyThreads.put(name, Thread.start {&#xd;
+    sleep 100&#xd;
+    while( launchpad.groovyThreads.get(name) != null ) {&#xd;
+        i=i+0.05&#xd;
+        v=Math.round(Math.sin(i)*63+63)&#xd;
+ //       launchpad.cliphash.get(0+&quot;_&quot;+0)._send(ShortMessage.PROGRAM_CHANGE,1,0);&#xd;
+        sleep 50&#xd;
+        print &quot;thread is running   &quot; + i + &quot; &quot; + v + &quot;\n&quot;&#xd;
+    }&#xd;
+    println &quot;Thread stopped: &quot; + name &#xd;
+})&#xd;
+&#xd;
+&#xd;
+// Thread management / list&#xd;
+launchpad.groovyThreads.each {&#xd;
+   println &quot;$it.key&quot;&#xd;
+}&#xd;
+&#xd;
+&#xd;
+// Thread management / stop&#xd;
+launchpad.groovyThreads.remove(&quot;cc1&quot;)&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+//  Crazy Example -&gt; Fibonacci with Functional Java&#xd;
+import fj.*&#xd;
+import fj.control.parallel.Strategy&#xd;
+import static fj.Function.curry as fcurry&#xd;
+import static fj.P1.curry as pcurry&#xd;
+import static fj.P1.fmap&#xd;
+import static fj.control.parallel.Actor.actor&#xd;
+import static fj.control.parallel.Promise.*&#xd;
+import static fj.data.List.range&#xd;
+import static java.util.concurrent.Executors.*&#xd;
+&#xd;
+CUTOFF  = 12   // not worth parallelizing for small n&#xd;
+START   = 8&#xd;
+END     = 18&#xd;
+THREADS = 4&#xd;
+&#xd;
+pool = newFixedThreadPool(THREADS)&#xd;
+su   = Strategy.executorStrategy(pool)&#xd;
+spi  = Strategy.executorStrategy(pool)&#xd;
+add  = fcurry({ a, b -&gt; a + b } as F2)&#xd;
+nums = range(START, END + 1)&#xd;
+&#xd;
+println &quot;Calculating Fibonacci sequence in parallel...&quot;&#xd;
+&#xd;
+serialFib = { n -&gt; n &lt; 2 ? n : serialFib(n - 1) + serialFib(n - 2) }&#xd;
+&#xd;
+print = { results -&gt;&#xd;
+  def n = START&#xd;
+  results.each{ println &quot;n=${n++} =&gt; $it&quot; }&#xd;
+  pool.shutdown()&#xd;
+} as Effect&#xd;
+&#xd;
+calc = { n -&gt;&#xd;
+  n &lt; CUTOFF ?&#xd;
+    promise(su, P.p(serialFib(n))) :&#xd;
+    calc.f(n - 1).bind(join(su, pcurry(calc).f(n - 2)), add)&#xd;
+} as F&#xd;
+&#xd;
+out = actor(su, print)&#xd;
+join(su, fmap(sequence(su)).f(spi.parMapList(calc).f(nums))).to(out)</groovyCode>
+</org.neuroninterworks.midi.seq64.SessionInfo>

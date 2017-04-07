@@ -1,0 +1,68 @@
+<org.neuroninterworks.midi.seq64.SessionInfo>
+  <name></name>
+  <storedir>./</storedir>
+  <font>/font.png</font>
+  <groovyScript>seq64.groovy</groovyScript>
+  <bpm>126</bpm>
+  <inputClockDeviceName>loopMIDI Seq64ClockIn</inputClockDeviceName>
+  <inputNoteDeviceName>loopMIDI Seq64NoteIn</inputNoteDeviceName>
+  <clipInfos>
+    <entry>
+      <string>0_0</string>
+      <org.neuroninterworks.midi.seq64.ClipInfo>
+        <name></name>
+        <outDevice>loopMIDI MiniakOUT</outDevice>
+        <inDevice></inDevice>
+        <outChannel>0</outChannel>
+        <inChannel>0</inChannel>
+        <beats>4</beats>
+        <xpos>0</xpos>
+        <ypos>0</ypos>
+        <xoff>0</xoff>
+        <v__xoff>
+          <int>0</int>
+        </v__xoff>
+        <yoff>84</yoff>
+        <v__yoff>
+          <int>84</int>
+        </v__yoff>
+        <gridXSize>6</gridXSize>
+        <v__gridXSize>
+          <int>6</int>
+        </v__gridXSize>
+        <loopStart>0</loopStart>
+        <loopEnd>96</loopEnd>
+        <presetBank>-1</presetBank>
+        <presetProg>-1</presetProg>
+        <play>false</play>
+        <record>false</record>
+        <loopsPlayed>0</loopsPlayed>
+        <startedOnLoop>0</startedOnLoop>
+        <events>
+          <entry>
+            <string>6_41_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>gCkA</data>
+                <length>3</length>
+              </message>
+              <tick>11</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>6_41</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>kCkt</data>
+                <length>3</length>
+              </message>
+              <tick>6</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+        </events>
+      </org.neuroninterworks.midi.seq64.ClipInfo>
+    </entry>
+  </clipInfos>
+  <autosave>true</autosave>
+  <groovyCode></groovyCode>
+</org.neuroninterworks.midi.seq64.SessionInfo>

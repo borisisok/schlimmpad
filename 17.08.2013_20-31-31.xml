@@ -1,0 +1,49 @@
+<org.neuroninterworks.midi.seq64.SessionInfo>
+  <name></name>
+  <storedir>./</storedir>
+  <font>/font.png</font>
+  <groovyScript>seq64.groovy</groovyScript>
+  <bpm>126</bpm>
+  <inputClockDeviceName>loopMIDI Seq64ClockIn</inputClockDeviceName>
+  <inputNoteDeviceName>loopMIDI Seq64NoteIn</inputNoteDeviceName>
+  <clipInfos>
+    <entry>
+      <string>0_0</string>
+      <org.neuroninterworks.midi.seq64.ClipInfo>
+        <name></name>
+        <outDevice>Gervill</outDevice>
+        <inDevice></inDevice>
+        <outChannel>0</outChannel>
+        <inChannel>0</inChannel>
+        <beats>4</beats>
+        <xpos>0</xpos>
+        <ypos>0</ypos>
+        <xoff>0</xoff>
+        <v__xoff>
+          <int>0</int>
+          <int>0</int>
+        </v__xoff>
+        <yoff>84</yoff>
+        <v__yoff>
+          <int>84</int>
+          <int>84</int>
+        </v__yoff>
+        <gridXSize>6</gridXSize>
+        <v__gridXSize>
+          <int>6</int>
+          <int>6</int>
+        </v__gridXSize>
+        <loopStart>0</loopStart>
+        <loopEnd>96</loopEnd>
+        <presetBank>-1</presetBank>
+        <presetProg>-1</presetProg>
+        <play>false</play>
+        <record>false</record>
+        <loopsPlayed>0</loopsPlayed>
+        <startedOnLoop>0</startedOnLoop>
+        <events/>
+      </org.neuroninterworks.midi.seq64.ClipInfo>
+    </entry>
+  </clipInfos>
+  <autosave>true</autosave>
+</org.neuroninterworks.midi.seq64.SessionInfo>

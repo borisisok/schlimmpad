@@ -1,0 +1,15 @@
+GUI Planning:
+
+
+    Clip      
+    State     
+    Stepsize
+    Range
+    Length
+    Start
+    End
+    Notecount
+
+
+
+    Message

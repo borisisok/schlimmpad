@@ -1,0 +1,458 @@
+<org.neuroninterworks.midi.seq64.SessionInfo>
+  <name></name>
+  <storedir>.</storedir>
+  <font>/font.png</font>
+  <groovyScript>seq64.groovy</groovyScript>
+  <bpm>126</bpm>
+  <inputClockDeviceName>loopMIDI Seq64ClockIn</inputClockDeviceName>
+  <inputNoteDeviceName>loopMIDI Seq64NoteIn</inputNoteDeviceName>
+  <clipInfos>
+    <entry>
+      <string>0_0</string>
+      <org.neuroninterworks.midi.seq64.ClipInfo>
+        <name></name>
+        <outDevice>micro lite: Port 1</outDevice>
+        <inDevice></inDevice>
+        <outChannel>15</outChannel>
+        <inChannel>0</inChannel>
+        <beats>4</beats>
+        <xpos>0</xpos>
+        <ypos>0</ypos>
+        <xoff>34</xoff>
+        <yoff>83</yoff>
+        <gridXSize>6</gridXSize>
+        <loopStart>0</loopStart>
+        <loopEnd>240</loopEnd>
+        <presetBank>-1</presetBank>
+        <presetProg>-1</presetProg>
+        <play>false</play>
+        <record>false</record>
+        <loopsPlayed>0</loopsPlayed>
+        <startedOnLoop>0</startedOnLoop>
+        <events>
+          <entry>
+            <string>84_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyoA</data>
+                <length>3</length>
+              </message>
+              <tick>89</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>30_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>35</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>0_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyYt</data>
+                <length>3</length>
+              </message>
+              <tick>0</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>144_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyYt</data>
+                <length>3</length>
+              </message>
+              <tick>144</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>138_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>138</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>42_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>42</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>132_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyot</data>
+                <length>3</length>
+              </message>
+              <tick>132</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>114_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>119</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>90_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>90</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>0_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyYA</data>
+                <length>3</length>
+              </message>
+              <tick>5</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>126_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>126</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyYt</data>
+                <length>3</length>
+              </message>
+              <tick>48</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>138_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>143</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>6_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>6</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>150_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>150</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>18_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>18</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>48_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyYA</data>
+                <length>3</length>
+              </message>
+              <tick>53</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyot</data>
+                <length>3</length>
+              </message>
+              <tick>36</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>90_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>95</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>144_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyYA</data>
+                <length>3</length>
+              </message>
+              <tick>149</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>18_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>23</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>162_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>162</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>78_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>78</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>54_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>59</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>150_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>155</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>36_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyoA</data>
+                <length>3</length>
+              </message>
+              <tick>41</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>6_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>11</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>114_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>114</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>162_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>167</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>54_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>54</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>102_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>102</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>96_38_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyYA</data>
+                <length>3</length>
+              </message>
+              <tick>101</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>66_37</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyUt</data>
+                <length>3</length>
+              </message>
+              <tick>66</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>102_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>107</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>78_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>83</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>96_38</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyYt</data>
+                <length>3</length>
+              </message>
+              <tick>96</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>84_42</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nyot</data>
+                <length>3</length>
+              </message>
+              <tick>84</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>42_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>47</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>126_63_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jz8A</data>
+                <length>3</length>
+              </message>
+              <tick>131</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>66_37_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyUA</data>
+                <length>3</length>
+              </message>
+              <tick>71</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>132_42_off</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>jyoA</data>
+                <length>3</length>
+              </message>
+              <tick>137</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+          <entry>
+            <string>30_63</string>
+            <javax.sound.midi.MidiEvent>
+              <message class="javax.sound.midi.ShortMessage">
+                <data>nz8t</data>
+                <length>3</length>
+              </message>
+              <tick>30</tick>
+            </javax.sound.midi.MidiEvent>
+          </entry>
+        </events>
+      </org.neuroninterworks.midi.seq64.ClipInfo>
+    </entry>
+  </clipInfos>
+  <autosave>true</autosave>
+</org.neuroninterworks.midi.seq64.SessionInfo>
