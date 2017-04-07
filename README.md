@@ -14,3 +14,15 @@
 * Groovy script macros
 * ...
 
+
+## Demo
+
+Here is an old demo video of the SchlimmPad sequencer. It´s featuring a horrible sequence and weak sound but still shows some of the main concepts like:
+
+* File loading 
+* The start of clips
+* Some step type pattern editing 
+* Üaging and scrolling
+
+https://vimeo.com/9192222
+
