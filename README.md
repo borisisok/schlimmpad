@@ -24,5 +24,5 @@ Here is an old demo video of the SchlimmPad sequencer. It´s featuring a horribl
 * Some step type pattern editing 
 * Üaging and scrolling
 
-[![ScreenShot](https://raw.github.com/borisisok/schlimmpad/resources/video1.jpg)](https://vimeo.com/9192222)
+[![ScreenShot](https://raw.githubusercontent.com/borisisok/schlimmpad/master/resources/video1.jpg)](https://vimeo.com/9192222)
 
