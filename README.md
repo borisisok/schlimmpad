@@ -1,5 +1,5 @@
 # SchlimmPad
-## A Novation Launchpad midi sequencer that is strictly using Launchpad(s)
+## A midi sequencer that is strictly using Novation Launchpad(s) 
 
 ## Features:
 
